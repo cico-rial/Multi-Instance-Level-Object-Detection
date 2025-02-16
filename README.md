@@ -28,7 +28,7 @@ The same approach as for single instance detection was applied, but for multiple
 
 
 ## Part 2 - Product Classification 
-Implementation of a neural network that classifies smartphone pictures of products found in grocery stores. It's divided into two parts: first, implementation from scratch of my own **neural network** for image classification; then, you **fine-tuning** of a **pretrained network** provided by PyTorch.
+Implementation of a neural network that classifies smartphone pictures of products found in grocery stores. It's divided into two parts: first, implementation from scratch of my own **neural network** for image classification; then, **fine-tuning** of a **pretrained network** provided by PyTorch.
 
 ### Neural Network from Scratch
 

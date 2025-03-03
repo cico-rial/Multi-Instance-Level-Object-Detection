@@ -1,5 +1,7 @@
-# Image Processing & Computer Vision
+# (Multi)-Instance Level Object Detection
+This repo contains the solution for the assignments of Image Processing and Computer Vision exam.
 ## Part 1 - Single and Multiple Instance Object Detection - Image Processing
+The aim was to detect and estimate the position of reference products in target images.  
 **Instance Object Detection** was developed using different techniques, such as:
 
 - SIFT, ORB
@@ -28,7 +30,8 @@ The same approach as for single instance detection was applied, but for multiple
 
 
 ## Part 2 - Product Classification 
-Implementation of a neural network that classifies smartphone pictures of products found in grocery stores. It's divided into two parts: first, implementation from scratch of my own **neural network** for image classification; then, **fine-tuning** of a **pretrained network** provided by PyTorch.
+The goal was to implement a neural network that classifies pictures of products found in grocery stores.  
+It's divided into two parts: first, implementation from scratch of my own **neural network** for image classification; then, **fine-tuning** of a **pretrained network** provided by PyTorch, Resnet-18.
 
 ### Neural Network from Scratch
 
